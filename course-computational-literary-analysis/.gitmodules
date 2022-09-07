@@ -1,0 +1,6 @@
+[submodule "Slides/reveal.js"]
+	path = Slides/reveal.js
+	url = https://github.com/hakimel/reveal.js.git
+[submodule "Readings"]
+	path = Readings
+	url = git@github.com:JonathanReeve/course-computational-literary-analysis-readings.git
